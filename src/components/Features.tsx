@@ -1,6 +1,6 @@
 
 import React, { useEffect, useRef } from 'react';
-import { Ghost, Flame, Crown, Mask, Eye, Key } from 'lucide-react';
+import { Ghost, Flame, Crown, User, Eye, Key } from 'lucide-react';
 
 const featureItems = [
   {
@@ -14,7 +14,7 @@ const featureItems = [
     description: 'Precision-crafted crown spikes with durable and lightweight materials.',
   },
   {
-    icon: <Mask className="w-10 h-10 text-dungeon-blue-glow" />,
+    icon: <User className="w-10 h-10 text-dungeon-blue-glow" />,
     title: 'Perfect Smile',
     description: 'Terrifying grin with detailed teeth molding for screen-accurate appearance.',
   },
