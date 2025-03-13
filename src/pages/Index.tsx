@@ -35,8 +35,8 @@ const Index = () => {
     <div className="min-h-screen bg-dungeon-darker">
       <Navbar />
       <Hero />
-      <Gallery />
       <Features />
+      <Gallery />
       <Contact />
       <Footer />
     </div>

@@ -5,42 +5,42 @@ import { ArrowLeft, ArrowRight } from 'lucide-react';
 
 const galleryImages = [
   {
-    src: "/public/lovable-uploads/7e34304a-feb9-40d7-ac5d-99ec58c2faef.png",
+    src: "/lovable-uploads/7e34304a-feb9-40d7-ac5d-99ec58c2faef.png",
     alt: "Statue of God Cosplay - Full View",
     caption: "Full Statue Cosplay",
   },
   {
-    src: "/public/lovable-uploads/be00755b-c33a-43a9-aa3b-92831f33e0b6.png",
+    src: "/lovable-uploads/be00755b-c33a-43a9-aa3b-92831f33e0b6.png",
     alt: "Statue of God Cosplay - Close Up",
     caption: "Intimidating Face Detail",
   },
   {
-    src: "/public/lovable-uploads/d634e38f-6fc9-47f4-87aa-074c066ba446.png",
+    src: "/lovable-uploads/d634e38f-6fc9-47f4-87aa-074c066ba446.png",
     alt: "Statue of God Cosplay - Event Photo",
     caption: "Convention Ready",
   },
   {
-    src: "/public/lovable-uploads/3dbd0d59-58c4-4169-9b59-5d48a076d8f8.png",
+    src: "/lovable-uploads/3dbd0d59-58c4-4169-9b59-5d48a076d8f8.png",
     alt: "Statue of God Cosplay - Red Eyes",
     caption: "Glowing Red Eyes",
   },
   {
-    src: "/public/lovable-uploads/4db56819-7a50-4476-86f1-011983f241f8.png",
+    src: "/lovable-uploads/4db56819-7a50-4476-86f1-011983f241f8.png",
     alt: "Statue of God Cosplay - Group Photo",
     caption: "With Other Cosplayers",
   },
   {
-    src: "/public/lovable-uploads/24fb7b81-c8ab-4784-bc90-cd4ff57fcb52.png",
+    src: "/lovable-uploads/24fb7b81-c8ab-4784-bc90-cd4ff57fcb52.png",
     alt: "Statue of God Cosplay - Mask Close-up",
     caption: "Crown Detail",
   },
   {
-    src: "/public/lovable-uploads/e967ec0f-9f94-4ba5-a87e-b37350a51a58.png",
+    src: "/lovable-uploads/e967ec0f-9f94-4ba5-a87e-b37350a51a58.png",
     alt: "Statue of God Cosplay - Full Body Shot",
     caption: "Imposing Presence",
   },
   {
-    src: "/public/lovable-uploads/ab3f4714-016e-4bb8-a0d6-d9f0d58b58a1.png",
+    src: "/lovable-uploads/ab3f4714-016e-4bb8-a0d6-d9f0d58b58a1.png",
     alt: "Statue of God Cosplay - Full Costume",
     caption: "Complete Outfit",
   },

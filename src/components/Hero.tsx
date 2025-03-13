@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
             <div className="absolute inset-0 rounded-full bg-dungeon-blue-glow/20 blur-3xl filter animate-glow-pulse"></div>
             <img
               ref={imageRef}
-              src="/public/lovable-uploads/88d8b7d4-2c72-48c0-bbe1-f59e3bd6ce8f.png"
+              src="/lovable-uploads/88d8b7d4-2c72-48c0-bbe1-f59e3bd6ce8f.png"
               alt="Statue of God Cosplay"
               className="relative z-10 w-full max-w-md animate-float"
               style={{ filter: 'drop-shadow(0 0 15px rgba(30, 174, 219, 0.5))' }}
